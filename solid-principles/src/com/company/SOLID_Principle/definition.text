@@ -28,7 +28,7 @@ behaviour of the program.
 
 
                         INTERFACE SEGREGATION PRINCIPLE
-A client should never be forced to implement an interface it does not use or need. This principle enforces that large
+A client should never be forced to implement an interface it does not use or need. This principle enforces that
 larger interfaces be broken down into smaller ones so that implementing classes do not possess methods that they do not
 require. This is somewhat related to the single responsibility principle. If an interface has two methods lets say make
 black coffee and make milk coffee and lets say ABC coffee shop only serves black coffee while implementing the interface
